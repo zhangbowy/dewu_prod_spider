@@ -18,5 +18,5 @@ https://pan.baidu.com/s/11lzYQkp9gXwFJr0Bwzyeqg
 
 ## 功能截图
 ![alt text](3aaeebd8fb626b3ce9c063b4f2af1fe.png)
-![alt text](077b217b6bdc98dceead7a24c6432b1.png)
+![alt text](image.png)
 ![alt text](93bedacff059ec9f5148a827b2b1ff9.png)
